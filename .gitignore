@@ -3,3 +3,5 @@ _site/*
 feeds/*
 state
 state.lock
+*.swp
+output.html
