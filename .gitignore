@@ -1,0 +1,6 @@
+_site/*
+*~
+feeds/*
+index.html
+state
+state.lock
