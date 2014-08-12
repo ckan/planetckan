@@ -1,4 +1,2 @@
-title: Planet CKAN
-url: http://ckan.github.io/planetckan/
 pygments: true
-exclude: [README.markdown, feeds, state, state.lock]
+exclude: [README.markdown, feeds, state, state.lock, custom_template.html, custom_item_template.html]
